@@ -1,0 +1,2 @@
+# tidepod
+a minimal startpage
